@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "scatter-hitam",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "27a1866f-be12-4262-87c9-7bdb11f86e53",
+			"database_name": "scatter-hitam"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
